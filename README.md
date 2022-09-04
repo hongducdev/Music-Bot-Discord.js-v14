@@ -1,6 +1,6 @@
 ﻿# Music-Bot-Discord.js-v14 from PinkDuwc._#3443
 
-![LOC](https://tokei.rs/b1/github/hongduccodedao/Music-Bot-Discord.js-v14category=code)
+![LOC](https://tokei.rs/b1/github/hongduccodedao/Music-Bot-Discord.js-v14?category=code)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/hongduccodedao/Music-Bot-Discord.js-v14?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hongduccodedao/Music-Bot-Discord.js-v14?style=for-the-badge)
